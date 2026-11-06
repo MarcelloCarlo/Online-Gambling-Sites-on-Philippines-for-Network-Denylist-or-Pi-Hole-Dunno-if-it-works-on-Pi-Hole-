@@ -6,6 +6,7 @@
 # Credit to u/Elegant-Fox-3652 on Reddit
 # Reddit Post: https://www.reddit.com/r/InternetPH/comments/1p7q42d/list_of_online_gambling_sites_for_network_denylist/
 # Extra PH domains from PAGCOR registered lists + community reports
+# Shared game-provider API/CDN hosts (JILI, Pragmatic, Evolution, PG Soft, sportsbook SDKs)
 # Please spread this — credit the original poster and this repo
 
 # --- Brand-family patterns (rotating mirrors) ---
@@ -16,7 +17,17 @@
 (\.|^)bk8ph[0-9]+\.[a-z0-9.\-]+$
 (\.|^)bingoplus(ios|android)[0-9]+\.[a-z0-9.\-]+$
 (\.|^)arenaplus(ios|android)[0-9]+\.[a-z0-9.\-]+$
-
+# --- Shared provider / CDN API patterns ---
+(\.|^)opulentmind[0-9]*\.[a-z0-9.\-]+$
+(\.|^)jiligames(cdn)?\.(com|games)$
+(\.|^)ppgames\.net$
+(\.|^)pragmaticplay\.(net|com)$
+(\.|^)evo\-games\.com$
+(\.|^)wb(slot|lobby|game)[a-z0-9\-]*\.[a-z0-9.\-]+$
+(\.|^)bingopluscf\.zone$
+(\.|^)biahosted\.(com|net)$
+(\.|^)slccdn\.com$
+(\.|^)apcommunitys\.com$
 # --- Exact domains (wildcard via subdomain-aware regex) ---
 (\.|^)20bet\.com$
 (\.|^)colorgame\.org$
@@ -672,3 +683,30 @@
 (\.|^)phlago6848\.com$
 (\.|^)phlago774918\.com$
 (\.|^)phlago8216\.com$
+
+# --- Shared gambling API / game-provider CDNs ---
+(\.|^)opulentmind168\.com$
+(\.|^)jiligames\.com$
+(\.|^)jiligames\.games$
+(\.|^)jiligamescdn\.com$
+(\.|^)ppgames\.net$
+(\.|^)pragmaticplay\.net$
+(\.|^)pragmaticplay\.com$
+(\.|^)evo\-games\.com$
+(\.|^)pgsoft\.com$
+(\.|^)pgsoft\-games\.com$
+(\.|^)altenar\.com$
+(\.|^)biahosted\.com$
+(\.|^)biahosted\.net$
+(\.|^)betconstruct\.com$
+(\.|^)digitain\.com$
+(\.|^)softswiss\.com$
+(\.|^)spadegaming\.com$
+(\.|^)habanero\.systems$
+(\.|^)habanero\.com$
+(\.|^)cq9gaming\.com$
+(\.|^)fastrackr\.com$
+(\.|^)exactplay\.com$
+(\.|^)bingopluscf\.zone$
+(\.|^)apcommunitys\.com$
+(\.|^)slccdn\.com$

@@ -658,3 +658,31 @@ phlago674210.com
 phlago6848.com
 phlago774918.com
 phlago8216.com
+
+# --- Shared gambling API / game-provider CDNs (multi-app) ---
+# Blocks slots/live/sportsbook backends many apps embed (JILI, Pragmatic, Evolution, PG Soft, etc.)
+opulentmind168.com
+jiligames.com
+jiligames.games
+jiligamescdn.com
+ppgames.net
+pragmaticplay.net
+pragmaticplay.com
+evo-games.com
+pgsoft.com
+pgsoft-games.com
+altenar.com
+biahosted.com
+biahosted.net
+betconstruct.com
+digitain.com
+softswiss.com
+spadegaming.com
+habanero.systems
+habanero.com
+cq9gaming.com
+fastrackr.com
+exactplay.com
+bingopluscf.zone
+apcommunitys.com
+slccdn.com
