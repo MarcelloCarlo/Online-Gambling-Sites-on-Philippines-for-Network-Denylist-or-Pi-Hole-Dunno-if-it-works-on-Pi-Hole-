@@ -44,6 +44,11 @@
 # --- OP Gaming 888 ---
 (\.|^)opgaming888\.(net|com)$
 (\.|^)opgaming888\.[a-z0-9.\-]+$
+# --- Fortune Gems brand-hijack ---
+(\.|^)fortune\-?gems[0-9]*\.[a-z0-9.\-]+$
+(\.|^)fortunegems[0-9]*\.[a-z0-9.\-]+$
+(\.|^)jili\.net\.ph$
+(\.|^)456bet[0-9]*\.[a-z0-9.\-]+$
 # --- Exact domains (wildcard via subdomain-aware regex) ---
 (\.|^)20bet\.com$
 (\.|^)colorgame\.org$
@@ -744,3 +749,13 @@
 # --- OP Gaming 888 ---
 (\.|^)opgaming888\.net$
 (\.|^)opgaming888\.com$
+
+# --- Fortune Gems brand-hijack ---
+(\.|^)fortunegems\.com$
+(\.|^)fortunegems\.com\.ph$
+(\.|^)fortunegems\.app$
+(\.|^)fortune\-gems\.com$
+(\.|^)fortune\-gems\.com\.ph$
+(\.|^)fortune\-gems\.ph$
+(\.|^)jili\.net\.ph$
+(\.|^)456bet56\.com$

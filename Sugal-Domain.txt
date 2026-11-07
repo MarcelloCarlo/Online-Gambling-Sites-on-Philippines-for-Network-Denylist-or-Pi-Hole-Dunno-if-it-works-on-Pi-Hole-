@@ -705,3 +705,14 @@ digiplus.com.ph
 # --- OP Gaming 888 ---
 opgaming888.net
 opgaming888.com
+
+# --- Fortune Gems brand-hijack / JILI funnel sites ---
+# Fortune Gems is a JILI slot (not a casino); these domains spoof/funnel the name
+fortunegems.com
+fortunegems.com.ph
+fortunegems.app
+fortune-gems.com
+fortune-gems.com.ph
+fortune-gems.ph
+jili.net.ph
+456bet56.com
