@@ -28,6 +28,22 @@
 (\.|^)biahosted\.(com|net)$
 (\.|^)slccdn\.com$
 (\.|^)apcommunitys\.com$
+# --- Checked brands: TipTop / JI Gaming / Royal Flush ---
+(\.|^)tiptop\.bet$
+(\.|^)tip\-top\.bet$
+(\.|^)jigaming888\.com$
+(\.|^)jgaming888\.com$
+(\.|^)royalflush888\.com$
+(\.|^)royaleflush\.net$
+(\.|^)royal(e)?flush[0-9]*\.[a-z0-9.\-]+$
+(\.|^)j[i]?gaming888\.[a-z0-9.\-]+$
+# --- DigiPlus bigdata / corporate infra ---
+(\.|^)digiplus\-bigdata\.com$
+(\.|^)digi\-?plus\-?bigdata\.[a-z0-9.\-]+$
+(\.|^)digiplus\.com\.ph$
+# --- OP Gaming 888 ---
+(\.|^)opgaming888\.(net|com)$
+(\.|^)opgaming888\.[a-z0-9.\-]+$
 # --- Exact domains (wildcard via subdomain-aware regex) ---
 (\.|^)20bet\.com$
 (\.|^)colorgame\.org$
@@ -710,3 +726,21 @@
 (\.|^)bingopluscf\.zone$
 (\.|^)apcommunitys\.com$
 (\.|^)slccdn\.com$
+
+# --- Checked brands: TipTop / JI Gaming / Royal Flush ---
+(\.|^)tiptop\.bet$
+(\.|^)tip\-top\.bet$
+(\.|^)jigaming888\.com$
+(\.|^)jgaming888\.com$
+(\.|^)igaming888\.com$
+(\.|^)royalflush888\.com$
+(\.|^)royaleflush\.net$
+(\.|^)royaleflush88\.com$
+
+# --- DigiPlus bigdata / corporate infra ---
+(\.|^)digiplus\-bigdata\.com$
+(\.|^)digiplus\.com\.ph$
+
+# --- OP Gaming 888 ---
+(\.|^)opgaming888\.net$
+(\.|^)opgaming888\.com$

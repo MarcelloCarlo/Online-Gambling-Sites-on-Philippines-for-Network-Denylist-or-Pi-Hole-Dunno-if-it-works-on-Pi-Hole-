@@ -686,3 +686,22 @@ exactplay.com
 bingopluscf.zone
 apcommunitys.com
 slccdn.com
+
+# --- User-reported / checked gambling brands ---
+# tiptop.bet = AAA Tongits; jigaming888 = game platform APIs; royalflush888 = casino
+tiptop.bet
+tip-top.bet
+jigaming888.com
+jgaming888.com
+igaming888.com
+royalflush888.com
+royaleflush.net
+
+# --- DigiPlus infra (BingoPlus / ArenaPlus / GameZone parent) ---
+# digiplus-bigdata.com = analytics/backend (e.g. jumpserver.digiplus-bigdata.com)
+digiplus-bigdata.com
+digiplus.com.ph
+
+# --- OP Gaming 888 ---
+opgaming888.net
+opgaming888.com
