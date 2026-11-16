@@ -700,7 +700,10 @@ royaleflush.net
 
 # --- DigiPlus infra (BingoPlus / ArenaPlus / GameZone parent) ---
 # digiplus-bigdata.com = analytics/backend (e.g. jumpserver.digiplus-bigdata.com)
+# Gravity is exact-match only — list known subdomains explicitly
 digiplus-bigdata.com
+prod-ab.digiplus-bigdata.com
+jumpserver.digiplus-bigdata.com
 digiplus.com.ph
 
 # --- OP Gaming 888 ---

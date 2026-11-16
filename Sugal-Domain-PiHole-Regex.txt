@@ -747,6 +747,8 @@
 
 # --- DigiPlus bigdata / corporate infra ---
 (\.|^)digiplus\-bigdata\.com$
+(\.|^)prod\-ab\.digiplus\-bigdata\.com$
+(\.|^)jumpserver\.digiplus\-bigdata\.com$
 (\.|^)digiplus\.com\.ph$
 
 # --- OP Gaming 888 ---
