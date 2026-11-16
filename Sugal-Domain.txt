@@ -844,3 +844,26 @@ www.opgaming888.net
 report.opgaming888.net
 dl.opgaming888.com
 player.opgaming888.com
+
+# --- WB Slot / JILI platform host combinations ---
+# Patterns: wbslot-platform|wbslot-fd|wb-lobby|wbgame|wb-platform on rotating apexes
+wbslot-fd.bd33fgabh.com
+wb-platform.bd33fgabh.com
+wbslot.bd33fgabh.com
+wbslot-cdn.bd33fgabh.com
+wbgame-demo.bd33fgabh.com
+wb-api.bd33fgabh.com
+wbslot-api.bd33fgabh.com
+wbslot-lobby.bd33fgabh.com
+wbslot-game.bd33fgabh.com
+wbslot-platform.opulentmind168.com
+wbslot-fd.opulentmind168.com
+wb-lobby.opulentmind168.com
+wbgame.opulentmind168.com
+wb-platform.opulentmind168.com
+casino-wbgame.jiligames.com
+u5kti8sd.com
+wbgame.u5kti8sd.com
+wbslot-platform.u5kti8sd.com
+wbslot-fd.u5kti8sd.com
+wb-lobby.u5kti8sd.com
