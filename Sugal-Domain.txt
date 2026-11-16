@@ -815,3 +815,32 @@ tablegame.com.ph
 tregs.sg8.casino
 vplus-ai.xyz
 vplus-mx.net
+
+# --- JILI / WB Slot CDN (bd33fgabh.com) ---
+bd33fgabh.com
+wbslot-platform.bd33fgabh.com
+wb-lobby.bd33fgabh.com
+wbgame.bd33fgabh.com
+
+# --- JI Gaming 888 / 777 (apex + known subdomains; gravity exact-match) ---
+# For full subdomain coverage import regex: (\.|^)jigaming(777|888)\.com$
+jigaming777.com
+player.jigaming888.com
+report.jigaming888.com
+dl.jigaming888.com
+player.jigaming777.com
+report.jigaming777.com
+dl.jigaming777.com
+api.jigaming888.com
+api.jigaming777.com
+www.jigaming888.com
+www.jigaming777.com
+
+# --- OP Gaming 888 (subdomains for gravity exact-match) ---
+dl.opgaming888.net
+player.opgaming888.net
+api.opgaming888.net
+www.opgaming888.net
+report.opgaming888.net
+dl.opgaming888.com
+player.opgaming888.com
