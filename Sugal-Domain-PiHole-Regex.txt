@@ -25,6 +25,8 @@
 (\.|^)evo\-games\.com$
 (\.|^)wb(slot|lobby|game)[a-z0-9\-]*\.[a-z0-9.\-]+$
 (\.|^)bingopluscf\.zone$
+(\.|^)arenapluscf\.zone$
+(\.|^)(bingo|arena)pluscf\.zone$
 (\.|^)biahosted\.(com|net)$
 (\.|^)slccdn\.com$
 (\.|^)apcommunitys\.com$
@@ -729,6 +731,7 @@
 (\.|^)fastrackr\.com$
 (\.|^)exactplay\.com$
 (\.|^)bingopluscf\.zone$
+(\.|^)arenapluscf\.zone$
 (\.|^)apcommunitys\.com$
 (\.|^)slccdn\.com$
 
