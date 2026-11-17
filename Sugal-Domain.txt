@@ -974,6 +974,7 @@ fortune-gems-jackpot.online
 platform10.me
 cp-fpms-prod-public.platform10.me
 fpms-nt.platform10.me
+fpms-nt-packet.platform10.me
 cp-fpms.platform10.me
 cp-fpms-prod.platform10.me
 client88.me
@@ -982,6 +983,8 @@ cp-images.client88.me
 client10.me
 fpms-profile.client10.me
 fpms-profile.client10.me.eo.dnse3.com
+fpms-nt-s3.client10.me
+fpms-nt-s3.client10.me.eo.dnse3.com
 # igoplatform.com = FPMS NT HTTP / related Casino Plus platform hosts
 igoplatform.com
 www.igoplatform.com
