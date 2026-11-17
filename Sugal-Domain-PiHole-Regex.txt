@@ -91,6 +91,11 @@
 (\.|^)jilibet[0-9]*\.[a-z0-9.\-]+$
 (\.|^)[0-9]*slotsph\.[a-z0-9.\-]+$
 (\.|^)philslots[0-9]*\.[a-z0-9.\-]+$
+# --- Fortune Gems related (expanded) ---
+(\.|^)fortunegemsjackpot\.[a-z0-9.\-]+$
+(\.|^)(play|slot)?fortune\-?gems[a-z0-9\-]*\.[a-z0-9.\-]+$
+(\.|^)jili\-?fortune\-?gems[a-z0-9\-]*\.[a-z0-9.\-]+$
+(\.|^)fortune\-?gems\-?jili[a-z0-9\-]*\.[a-z0-9.\-]+$
 # --- Exact domains (wildcard via subdomain-aware regex) ---
 (\.|^)20bet\.com$
 (\.|^)colorgame\.org$
@@ -1016,3 +1021,35 @@
 (\.|^)yamanplus759\.com$
 (\.|^)yamanplus863\.com$
 (\.|^)yamanplus974\.com$
+
+# --- Fortune Gems related (expanded) ---
+(\.|^)fortunegems\.net$
+(\.|^)fortunegems\.org$
+(\.|^)fortunegems\.ph$
+(\.|^)fortunegems\.bet$
+(\.|^)fortunegems\.casino$
+(\.|^)fortunegems\.vip$
+(\.|^)fortunegems\.live$
+(\.|^)fortunegems\.online$
+(\.|^)fortune\-gems\.net$
+(\.|^)fortune\-gems\.online$
+(\.|^)fortune\-gems\.bet$
+(\.|^)fortune\-gems\.app$
+(\.|^)fortunegems2\.com$
+(\.|^)fortunegems3\.com$
+(\.|^)fortunegems500\.com$
+(\.|^)fortunegemslegend\.com$
+(\.|^)fortune\-gems2\.com$
+(\.|^)fortune\-gems3\.com$
+(\.|^)fortune\-gems500\.com$
+(\.|^)playfortunegems\.com$
+(\.|^)slotfortunegems\.com$
+(\.|^)fortunegemsslots\.com$
+(\.|^)jilifortunegems\.com$
+(\.|^)fortunegemsjili\.com$
+(\.|^)fortunegems\-jili\.com$
+(\.|^)jili\-fortunegems\.com$
+(\.|^)fortunegemsjackpot\.com$
+(\.|^)fortunegemsjackpot\.online$
+(\.|^)fortune\-gems\-jackpot\.com$
+(\.|^)fortune\-gems\-jackpot\.online$
