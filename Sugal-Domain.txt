@@ -978,6 +978,15 @@ cp-fpms.platform10.me
 cp-fpms-prod.platform10.me
 client88.me
 cp-images.client88.me
+# client10.me = FPMS profile / client CDN (CNAME often *.eo.dnse3.com)
+client10.me
+fpms-profile.client10.me
+fpms-profile.client10.me.eo.dnse3.com
+# igoplatform.com = FPMS NT HTTP / related Casino Plus platform hosts
+igoplatform.com
+www.igoplatform.com
+fpms-nt-http.igoplatform.com
+fpms-nt.igoplatform.com
 igoclient.com
 config.igoclient.com
 clientsdk.com

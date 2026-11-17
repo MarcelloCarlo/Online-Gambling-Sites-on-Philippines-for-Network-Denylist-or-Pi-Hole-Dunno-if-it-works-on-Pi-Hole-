@@ -101,6 +101,11 @@
 (\.|^)cp\-?fpms[a-z0-9\-]*\.platform10\.me$
 (\.|^)fpms[a-z0-9\-]*\.platform10\.me$
 (\.|^)client88\.me$
+(\.|^)client10\.me$
+(\.|^)fpms[a-z0-9\-]*\.client10\.me$
+(\.|^)fpms\-profile\.client10\.me\.eo\.dnse3\.com$
+(\.|^)igoplatform\.com$
+(\.|^)fpms[a-z0-9\-]*\.igoplatform\.com$
 (\.|^)cp\-images\.[a-z0-9.\-]+$
 (\.|^)igoclient\.com$
 (\.|^)clientsdk\.com$
@@ -1072,6 +1077,13 @@
 (\.|^)cp\-fpms\-prod\.platform10\.me$
 (\.|^)client88\.me$
 (\.|^)cp\-images\.client88\.me$
+(\.|^)client10\.me$
+(\.|^)fpms\-profile\.client10\.me$
+(\.|^)fpms\-profile\.client10\.me\.eo\.dnse3\.com$
+(\.|^)igoplatform\.com$
+(\.|^)www\.igoplatform\.com$
+(\.|^)fpms\-nt\-http\.igoplatform\.com$
+(\.|^)fpms\-nt\.igoplatform\.com$
 (\.|^)igoclient\.com$
 (\.|^)config\.igoclient\.com$
 (\.|^)clientsdk\.com$
