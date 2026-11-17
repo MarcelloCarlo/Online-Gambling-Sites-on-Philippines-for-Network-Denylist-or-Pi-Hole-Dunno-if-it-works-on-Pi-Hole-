@@ -861,12 +861,61 @@ wbslot-fd.opulentmind168.com
 wb-lobby.opulentmind168.com
 wbgame.opulentmind168.com
 wb-platform.opulentmind168.com
+wbwebapi.opulentmind168.com
 casino-wbgame.jiligames.com
 u5kti8sd.com
 wbgame.u5kti8sd.com
 wbslot-platform.u5kti8sd.com
 wbslot-fd.u5kti8sd.com
 wb-lobby.u5kti8sd.com
+
+# --- WB Slot / game rotating API+CDN apexes (Query Log) ---
+# Gravity is exact-match only: parent entry does NOT block these subdomains
+kijl788du.com
+wb-api-2.kijl788du.com
+u45owu68o.com
+api.u45owu68o.com
+api-ali-hongkong-b.u45owu68o.com
+zmcyu9ypy.com
+m.zmcyu9ypy.com
+static.zmcyu9ypy.com
+p6iytzsxo.com
+m.p6iytzsxo.com
+static.p6iytzsxo.com
+t2rytwsha.com
+m.t2rytwsha.com
+static.t2rytwsha.com
+tkpusjc86.com
+api.tkpusjc86.com
+6ctuslwqz.com
+api.6ctuslwqz.com
+u2uyu876x.com
+m.u2uyu876x.com
+static.u2uyu876x.com
+
+# --- Color Game backends (dcolorgame / ccolorgame) ---
+dcolorgame.com
+tokenserver.dcolorgame.com
+snapshot.dcolorgame.com
+msg-prod.dcolorgame.com
+gts-prod.dcolorgame.com
+elog.dcolorgame.com
+static.dcolorgame.com
+gw-prod.dcolorgame.com
+bf3724.dcolorgame.com
+static.ccolorgame.com
+# Color Game live stream / IM (Tencent RTC stack seen with dcolorgame)
+cloud-rtc.com
+schedule.cloud-rtc.com
+intl-schedule.cloud-rtc.com
+cloud-rtc.net
+schedule.cloud-rtc.net
+rtc-web.com
+schedule.rtc-web.com
+rtc-web.io
+schedule.rtc-web.io
+my-imcloud.com
+apisgp.my-imcloud.com
 
 # --- Royal Flush 888 WB Slot embeds + Fortune Gems Jackpot ---
 wbslot-fd.royalflush888.com
@@ -975,6 +1024,8 @@ platform10.me
 cp-fpms-prod-public.platform10.me
 fpms-nt.platform10.me
 fpms-nt-packet.platform10.me
+pg-login.platform10.me
+pg-login.platform10.me.eo.dnse3.com
 cp-fpms.platform10.me
 cp-fpms-prod.platform10.me
 client88.me
@@ -985,6 +1036,7 @@ fpms-profile.client10.me
 fpms-profile.client10.me.eo.dnse3.com
 fpms-nt-s3.client10.me
 fpms-nt-s3.client10.me.eo.dnse3.com
+lms2-api.client10.me
 # igoplatform.com = FPMS NT HTTP / related Casino Plus platform hosts
 igoplatform.com
 www.igoplatform.com
