@@ -867,3 +867,16 @@ wbgame.u5kti8sd.com
 wbslot-platform.u5kti8sd.com
 wbslot-fd.u5kti8sd.com
 wb-lobby.u5kti8sd.com
+
+# --- Royal Flush 888 WB Slot embeds + Fortune Gems Jackpot ---
+wbslot-fd.royalflush888.com
+wbslot-platform.royalflush888.com
+wb-lobby.royalflush888.com
+wbgame.royalflush888.com
+wb-platform.royalflush888.com
+fortunegems-jackpot.online
+api.fortunegems-jackpot.online
+www.fortunegems-jackpot.online
+player.fortunegems-jackpot.online
+cdn.fortunegems-jackpot.online
+app.fortunegems-jackpot.online
