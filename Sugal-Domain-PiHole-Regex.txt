@@ -96,6 +96,16 @@
 (\.|^)(play|slot)?fortune\-?gems[a-z0-9\-]*\.[a-z0-9.\-]+$
 (\.|^)jili\-?fortune\-?gems[a-z0-9\-]*\.[a-z0-9.\-]+$
 (\.|^)fortune\-?gems\-?jili[a-z0-9\-]*\.[a-z0-9.\-]+$
+# --- Casino Plus FPMS / platform10 backend ---
+(\.|^)platform10\.me$
+(\.|^)cp\-?fpms[a-z0-9\-]*\.platform10\.me$
+(\.|^)fpms[a-z0-9\-]*\.platform10\.me$
+(\.|^)client88\.me$
+(\.|^)cp\-images\.[a-z0-9.\-]+$
+(\.|^)igoclient\.com$
+(\.|^)clientsdk\.com$
+(\.|^)dbaccarah\.com$
+(\.|^)gaphilippines\.com$
 # --- Exact domains (wildcard via subdomain-aware regex) ---
 (\.|^)20bet\.com$
 (\.|^)colorgame\.org$
@@ -1053,3 +1063,20 @@
 (\.|^)fortunegemsjackpot\.online$
 (\.|^)fortune\-gems\-jackpot\.com$
 (\.|^)fortune\-gems\-jackpot\.online$
+
+# --- Casino Plus FPMS / platform10 backend ---
+(\.|^)platform10\.me$
+(\.|^)cp\-fpms\-prod\-public\.platform10\.me$
+(\.|^)fpms\-nt\.platform10\.me$
+(\.|^)cp\-fpms\.platform10\.me$
+(\.|^)cp\-fpms\-prod\.platform10\.me$
+(\.|^)client88\.me$
+(\.|^)cp\-images\.client88\.me$
+(\.|^)igoclient\.com$
+(\.|^)config\.igoclient\.com$
+(\.|^)clientsdk\.com$
+(\.|^)fe\.clientsdk\.com$
+(\.|^)gaphilippines\.com$
+(\.|^)cp\-images\.casinoplus\.live$
+(\.|^)dbaccarah\.com$
+(\.|^)pc\-prod\.dbaccarah\.com$

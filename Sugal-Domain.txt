@@ -968,3 +968,21 @@ fortunegemsjackpot.com
 fortunegemsjackpot.online
 fortune-gems-jackpot.com
 fortune-gems-jackpot.online
+
+# --- Casino Plus backend / FPMS infra ---
+# cp-fpms-prod-public.platform10.me = Casino Plus player management API
+platform10.me
+cp-fpms-prod-public.platform10.me
+fpms-nt.platform10.me
+cp-fpms.platform10.me
+cp-fpms-prod.platform10.me
+client88.me
+cp-images.client88.me
+igoclient.com
+config.igoclient.com
+clientsdk.com
+fe.clientsdk.com
+gaphilippines.com
+cp-images.casinoplus.live
+dbaccarah.com
+pc-prod.dbaccarah.com
